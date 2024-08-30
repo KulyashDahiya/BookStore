@@ -74,9 +74,11 @@ This is a Bookstore application built using FastAPI for the backend and React wi
 2. **Install the Frontend Dependencies:**
    \`\`\`bash
    npm install
+   npm install @mui/material @emotion/react @emotion/styled
+   npm install axios
    \`\`\`
 
-3. **Run the React Application:**
+4. **Run the React Application:**
    \`\`\`bash
    npm start
    \`\`\`
