@@ -32,10 +32,10 @@ This is a Bookstore application built using FastAPI for the backend and React wi
 - **Material UI** (UI Framework)
 
 ### Database:
-- (Assume any database like SQLite, PostgreSQL, etc.)
+- Static JSON File
 
 ### Environment:
-- **Node.js** (for frontend)
+- **React (JavaScript)** (for frontend)
 - **Python** (for backend)
 
 ## Setup Instructions
@@ -44,7 +44,7 @@ This is a Bookstore application built using FastAPI for the backend and React wi
 
 1. **Clone the Repository:**
    \`\`\`bash
-   git clone https://github.com/your-username/bookstore.git
+   git clone <Repo URL>
    cd bookstore/backend
    \`\`\`
 
@@ -112,4 +112,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is for personal use and is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
