@@ -42,24 +42,24 @@ This is a Bookstore application built using FastAPI for the backend and React wi
 ### Backend Setup
 
 1. **Clone the Repository:**
-   \`\`\`bash
+   \`\`\`
    git clone <Repo URL>
    cd bookstore/backend
    \`\`\`
 
 2. **Create and Activate a Python Virtual Environment:**
-   \`\`\`bash
+   \`\`\`
    python3 -m venv env
    source env/bin/activate
    \`\`\`
 
 3. **Install the Backend Dependencies:**
-   \`\`\`bash
+   \`\`\`
    pip install -r requirements.txt
    \`\`\`
 
 4. **Run the FastAPI Server:**
-   \`\`\`bash
+   \`\`\`
    uvicorn main:app --reload
    \`\`\`
    The backend will be running at \`http://127.0.0.1:8000\`.
@@ -67,14 +67,16 @@ This is a Bookstore application built using FastAPI for the backend and React wi
 ### Frontend Setup
 
 1. **Navigate to the Frontend Directory:**
-   \`\`\`bash
+   \`\`\`
    cd ../frontend
    \`\`\`
 
 2. **Install the Frontend Dependencies:**
-   \`\`\`bash
+   \`\`\`
    npm install
+   \`\`\`
    npm install @mui/material @emotion/react @emotion/styled
+   \`\`\`
    npm install axios
    \`\`\`
 
