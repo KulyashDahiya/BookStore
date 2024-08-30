@@ -9,7 +9,6 @@ This is a Bookstore application built using FastAPI for the backend and React wi
 - [Setup Instructions](#setup-instructions)
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
-- [Front-End Components](#front-end-components)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -95,10 +94,6 @@ This is a Bookstore application built using FastAPI for the backend and React wi
 - **POST /add-book** - Adds a new book to the list.
 - **GET /get-book?book_id={book_id}** - Fetches details of a book by its ID.
 - **GET /get-random-book** - Fetches a random book from the list.
-
-## Front-End Components
-
-(Add details of the front-end components here, such as BookList, BookForm, BookDetails, etc.)
 
 ## Future Enhancements
 
