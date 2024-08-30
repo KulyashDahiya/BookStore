@@ -1,0 +1,32 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "genre": "fiction",
+        "book_id": "d2c3e4f9b76c4e8ab1c9a1348d4e63a5"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "price": 7.99,
+        "genre": "fiction",
+        "book_id": "e5f6a7b8c9d0e1f2b3c4d5e6f7a8b9c0"
+    },
+    {
+        "title": "1984",
+        "price": 8.99,
+        "genre": "fiction",
+        "book_id": "f6a7b8c9d0e1f2b3c4d5e6f7a8b9c0d1"
+    },
+    {
+        "title": "Atomic Habits",
+        "price": 11.0,
+        "genre": "non-fiction",
+        "book_id": "4c3060bbb7934197a5b862927fac46d2"
+    },
+    {
+        "title": "HarryPotter",
+        "price": 50.55,
+        "genre": "fiction",
+        "book_id": "b59631602a1a4562ba24e0f065f0edfb"
+    }
+]
