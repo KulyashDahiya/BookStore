@@ -81,7 +81,7 @@ This is a Bookstore application built using FastAPI for the backend and React wi
    \`\`\`
 
 4. **Run the React Application:**
-   \`\`\`bash
+   \`\`\`
    npm start
    \`\`\`
    The frontend will be running at \`http://localhost:3000\`.
